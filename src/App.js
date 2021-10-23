@@ -11,7 +11,7 @@ import data from "./data";
 
 function App() {
   //State
-  const [songs, Setsongs] = useState(data());
+  const [songs] = useState(data());
   const [currentSong, setCurrentSong] = useState(songs[4])
   const [isPlaying, setIsPlaying] = useState(false);
   const [songInfo, setSongInfo] = useState({
