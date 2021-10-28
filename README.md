@@ -1,12 +1,21 @@
-# Getting Started with Create React App
+# Chill Music Player
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple browser music Player playing some chillhop. The music id from chillhop.com and all the rights for the music belong to them.
+I learned the basics of React and how to use React Hooks. I used SCSS to create modules for styling.
 
-## Available Scripts
+# Usage
 
-In the project directory, you can run:
+The usage of the player works like any other music player. While clicking on the "Just Music" Button the Library opens and you can select the songs. Right now just lofi is available.
 
-### `yarn start`
+## Improvements
+
+For future development it would be nice to add a feature to add and delete songs, so that every user can modify and create their own music library. A feature to create playlists would be nice as well. This could be implemented by adding Redux to the project, instead of passing the data down through the props of the components.
+
+## Development
+
+After cloning the project you can use yarn to run the following scripts:
+
+#### `yarn start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -14,12 +23,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
+#### `yarn build`
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -29,7 +33,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+#### `yarn eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
@@ -41,30 +45,15 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Learn More
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+### Credits
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+All music used in the player belongs to chillhop.com. Check out their website [here](https://chillhop.com/).  
 
-### Analyzing the Bundle Size
+This project was created by following one of [Dev Eds](https://github.com/developedbyed) tutorials. Check out his [youtube channel](https://www.youtube.com/c/DevEd).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
