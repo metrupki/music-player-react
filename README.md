@@ -44,7 +44,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 All music used in the player belongs to chillhop.com. Check out their website [here](https://chillhop.com/).  
 
-This project was created by following one of [Dev Eds](https://github.com/developedbyed) tutorials. Check out his [youtube channel](https://www.youtube.com/c/DevEd).
+This project was created by following one of [Dev Eds](https://github.com/developedbyed) tutorials. Check out his [youtube channel](https://www.youtube.com/c/DevEd).git 
 
 ## Show your support
 
